@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bhavya-goel-a79333b5" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bhavya-goel-a79333b5" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavyagoel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="bhavyagoel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavya-goel-a79333b5" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bhavya-goel-a79333b5" height="40" width="40" /></a>
+<a href="https://kaggle.com/bhavyagoel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="bhavyagoel" height="40" width="40" /></a>
 <a href="https://instagram.com/goel_bhavya_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="goel_bhavya_" height="40" width="40" /></a>
  
 </p>
