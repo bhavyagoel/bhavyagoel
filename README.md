@@ -21,7 +21,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/bhavya-goel-a79333b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavya-goel-a79333b5" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhavyagoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="bhavyagoel" height="30" width="40" /></a>
-<a href="https://instagram.com/goel_bhavya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="goel_bhavya_" height="30" width="40" /></a>
+<a href="https://instagram.com/goel_bhavya_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="goel_bhavya_" height="30" width="40" /></a>
+ 
 </p>
 
 
