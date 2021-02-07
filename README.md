@@ -32,7 +32,7 @@
 
 <!-- <p align="center"> -->
  
- <img src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&show_icons=true&locale=en" alt="bhavyagoel" style="display:block;margin-left:auto;margin-right:auto;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&show_icons=true&locale=en" alt="bhavyagoel" style="display:block;margin-left:auto;margin-right:auto;width:50%"/>
  <!-- </p> -->
 
 <p float="center">
