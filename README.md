@@ -42,7 +42,7 @@
 
 </div>
 <div align = "center">
-  <img align="center" src= "https://github.com/bhavyagoel/bhavyagoel/blob/master/commit.jpg" />
+  <img align="center" src= "https://github.com/bhavyagoel/bhavyagoel/blob/main/commit.png" />
 </div>
 
 
