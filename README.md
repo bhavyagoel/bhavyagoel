@@ -88,17 +88,17 @@
             <table>
                 <tr>
                     <td>
-                        <img height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyagoel&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyagoel&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
                     </td>
                     <td>
-                        <img src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&&show_icons=true&theme=algolia">
+                        <img height=180 src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&&show_icons=true&theme=algolia">
                     </td>
                 </tr>
             </table>
             <table>
                 <tr>
                     <td align="center">
-                        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagoel&&layout=compact&&show_icons=true&&theme=algolia" >
+                        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagoel&&layout=compact&&show_icons=true&&theme=algolia" >
                     </td>
                 </tr>
             </table>
