@@ -94,6 +94,8 @@
                         <img width=400 src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&&show_icons=true&theme=algolia">
                     </td>
                 </tr>
+            </table>
+            <table>
                 <tr>
                     <td align="center">
                         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagoel&&layout=compact&&show_icons=true&&theme=algolia" >
