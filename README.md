@@ -96,7 +96,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagoel&layout=compact&&show_icons=true&&theme=algolia">
+                        <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagoel&&layout=compact&&show_icons=true&&theme=algolia" >
                     </td>
                 </tr>
             </table>
