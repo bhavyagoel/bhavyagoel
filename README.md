@@ -88,7 +88,7 @@
             <table>
                 <tr>
                     <td>
-                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyagoel&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyagoel&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
                     </td>
                     <td>
                         <img height=180 src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&&show_icons=true&theme=algolia">
